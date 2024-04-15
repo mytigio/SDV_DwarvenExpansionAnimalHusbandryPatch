@@ -5,7 +5,7 @@
 	"Description": "Adds compatability for Dwarven Expansion animals with Animal Husbandry.",
 	"UniqueID": "mytigio.dwarven_expansion_animal_husbandry",
 	"MinimumApiVersion": "2.11.2",
-	"UpdateKeys": [],
+	"UpdateKeys": ["Nexus:22597"],
 	"Dependencies": [
 		{
 			"UniqueID": "mytigio.dwarven_expansion"
