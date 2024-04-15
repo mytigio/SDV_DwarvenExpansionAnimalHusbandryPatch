@@ -20,7 +20,7 @@
     "MinimumDaysBetweenTreats": 3,
     "LikedTreats": [
         684,
-        "{{ModId}}_Animals_GrubLarva"
+        "mytigio.dwarven_expansion_Animals_GrubLarva"
     ],
     "MinimumDaysUtillBirth": 3,
     "CanUseDeluxeItemForPregnancy": true
@@ -32,7 +32,7 @@
     "MinimumDaysBetweenTreats": 3,
     "LikedTreats": [
         684,
-        "{{ModId}}_Animals_GrubLarva"
+        "mytigio.dwarven_expansion_Animals_GrubLarva"
     ],
     "MinimumDaysUtillBirth": 3,
     "CanUseDeluxeItemForPregnancy": true
@@ -44,7 +44,7 @@
     "MinimumDaysBetweenTreats": 3,
     "LikedTreats": [
         684,
-        "{{ModId}}_Animals_GrubLarva"
+        "mytigio.dwarven_expansion_Animals_GrubLarva"
     ],
     "MinimumDaysUtillBirth": 5,
     "CanUseDeluxeItemForPregnancy": true
@@ -56,7 +56,7 @@
     "MinimumDaysBetweenTreats": 3,
     "LikedTreats": [
         684,
-        "{{ModId}}_Animals_GrubLarva"
+        "mytigio.dwarven_expansion_Animals_GrubLarva"
     ],
     "MinimumDaysUtillBirth": 5,
     "CanUseDeluxeItemForPregnancy": true
