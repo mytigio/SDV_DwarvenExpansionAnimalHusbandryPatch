@@ -1,0 +1,75 @@
+[
+  {
+    "Name": "mytigio.dwarven_expansion_FarmGrub",
+    "MinimalNumberOfMeat": 5,
+    "MaximumNumberOfMeat": 10,
+    "MinimumDaysBetweenTreats": 2,
+    "LikedTreats": [
+        0,
+        153,
+        157,
+        766
+    ],
+    "MinimumDaysUtillBirth": 1,
+    "CanUseDeluxeItemForPregnancy": true
+  },
+  {
+    "Name": "mytigio.dwarven_expansion_CopperCrab",
+    "MinimalNumberOfMeat": 1,
+    "MaximumNumberOfMeat": 1,
+    "MinimumDaysBetweenTreats": 3,
+    "LikedTreats": [
+        684,
+        "{{ModId}}_Animals_GrubLarva"
+    ],
+    "MinimumDaysUtillBirth": 3,
+    "CanUseDeluxeItemForPregnancy": true
+  },
+  {
+    "Name": "mytigio.dwarven_expansion_IronCrab",
+    "MinimalNumberOfMeat": 1,
+    "MaximumNumberOfMeat": 1,
+    "MinimumDaysBetweenTreats": 3,
+    "LikedTreats": [
+        684,
+        "{{ModId}}_Animals_GrubLarva"
+    ],
+    "MinimumDaysUtillBirth": 3,
+    "CanUseDeluxeItemForPregnancy": true
+  },
+  {
+    "Name": "mytigio.dwarven_expansion_GoldCrab",
+    "MinimalNumberOfMeat": 1,
+    "MaximumNumberOfMeat": 1,
+    "MinimumDaysBetweenTreats": 3,
+    "LikedTreats": [
+        684,
+        "{{ModId}}_Animals_GrubLarva"
+    ],
+    "MinimumDaysUtillBirth": 5,
+    "CanUseDeluxeItemForPregnancy": true
+  },
+  {
+    "Name": "mytigio.dwarven_expansion_IridiumCrab",
+    "MinimalNumberOfMeat": 1,
+    "MaximumNumberOfMeat": 1,
+    "MinimumDaysBetweenTreats": 3,
+    "LikedTreats": [
+        684,
+        "{{ModId}}_Animals_GrubLarva"
+    ],
+    "MinimumDaysUtillBirth": 5,
+    "CanUseDeluxeItemForPregnancy": true
+  },
+  {
+    "Name": "mytigio.dwarven_expansion_GiantNakedMoleRat",
+    "MinimalNumberOfMeat": 5,
+    "MaximumNumberOfMeat": 15,
+    "MinimumDaysBetweenTreats": 6,
+    "LikedTreats": [
+        78
+    ],
+    "MinimumDaysUtillBirth": 5,
+    "CanUseDeluxeItemForPregnancy": true
+  }
+]

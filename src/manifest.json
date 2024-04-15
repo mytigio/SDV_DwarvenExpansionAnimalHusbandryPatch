@@ -1,0 +1,17 @@
+﻿{
+	"Name": "[AHM] Dwarven Expansion Patch",
+	"Author": "mytigio",
+	"Version": "1.0.0",
+	"Description": "Adds compatability for Dwarven Expansion animals with Animal Husbandry.",
+	"UniqueID": "mytigio.dwarven_expansion_animal_husbandry",
+	"MinimumApiVersion": "2.11.2",
+	"UpdateKeys": [],
+	"Dependencies": [
+		{
+			"UniqueID": "mytigio.dwarven_expansion"
+		}
+	],
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.ANIMALHUSBANDRYMOD"
+	}
+}
