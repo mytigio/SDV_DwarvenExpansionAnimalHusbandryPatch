@@ -14,7 +14,7 @@
 		{
 			"UniqueID": "mytigio.everias_dragons_expanded",
 			"IsRequired": false
-		},
+		}
 	],
 	"ContentPackFor": {
 		"UniqueID": "DIGUS.ANIMALHUSBANDRYMOD"
