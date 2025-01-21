@@ -20,7 +20,9 @@
     "MinimumDaysBetweenTreats": 3,
     "LikedTreats": [
       684,
-      "Grub Larva"
+      "Grub Larva",
+      774,
+      "Deluxe Bait"
     ],
     "MinimumDaysUtillBirth": 3,
     "CanUseDeluxeItemForPregnancy": true
@@ -32,7 +34,9 @@
     "MinimumDaysBetweenTreats": 3,
     "LikedTreats": [
       684,
-      "Grub Larva"
+      "Grub Larva",
+      774,
+      "Deluxe Bait"
     ],
     "MinimumDaysUtillBirth": 3,
     "CanUseDeluxeItemForPregnancy": true
@@ -44,7 +48,9 @@
     "MinimumDaysBetweenTreats": 3,
     "LikedTreats": [
       684,
-      "Grub Larva"
+      "Grub Larva",
+      774,
+      "Deluxe Bait"
     ],
     "MinimumDaysUtillBirth": 5,
     "CanUseDeluxeItemForPregnancy": true
@@ -56,7 +62,9 @@
     "MinimumDaysBetweenTreats": 3,
     "LikedTreats": [
       684,
-      "Grub Larva"
+      "Grub Larva",
+      774,
+      "Deluxe Bait"
     ],
     "MinimumDaysUtillBirth": 5,
     "CanUseDeluxeItemForPregnancy": true
@@ -73,11 +81,42 @@
     "CanUseDeluxeItemForPregnancy": true
   },
   {
+    "Name": "mytigio.dwarven_expansion_GiantPaleSalamander",
+    "MinimalNumberOfMeat": 3,
+    "MaximumNumberOfMeat": 6,
+    "MinimumDaysBetweenTreats": 2,
+    "LikedTreats": [
+      684,
+      "Grub Larva",
+      774,
+      "Deluxe Bait"
+    ],
+    "MinimumDaysUtillBirth": 5,
+    "CanUseDeluxeItemForPregnancy": false
+  },
+  {
+    "Name": "mytigio.dwarven_expansion_Badger",
+    "MinimalNumberOfMeat": 4,
+    "MaximumNumberOfMeat": 8,
+    "MinimumDaysBetweenTreats": 3,
+    "LikedTreats": [
+      684,
+      "Grub Larva",
+      "Chicken",
+      "Salamander Meat",
+      "717"
+    ],
+    "MinimumDaysUtillBirth": 5,
+    "CanUseDeluxeItemForPregnancy": false
+  },
+  {
     "Name": "Shadow Dragon",
     "MinimalNumberOfMeat": 5,
     "MaximumNumberOfMeat": 15,
     "MinimumDaysBetweenTreats": 7,
     "LikedTreats": [
+      "Salamander Meat",
+      "Badger Meat",
       "Molerat Meat",
       "Beef",
       "Mutton"
@@ -90,7 +129,9 @@
     "MinimalNumberOfMeat": 5,
     "MaximumNumberOfMeat": 15,
     "MinimumDaysBetweenTreats": 7,
-    "LikedTreats": [
+     "LikedTreats": [
+      "Salamander Meat",
+      "Badger Meat",
       "Molerat Meat",
       "Beef",
       "Mutton"
@@ -103,7 +144,9 @@
     "MinimalNumberOfMeat": 5,
     "MaximumNumberOfMeat": 15,
     "MinimumDaysBetweenTreats": 7,
-    "LikedTreats": [
+     "LikedTreats": [
+      "Salamander Meat",
+      "Badger Meat",
       "Molerat Meat",
       "Beef",
       "Mutton"
@@ -116,7 +159,9 @@
     "MinimalNumberOfMeat": 5,
     "MaximumNumberOfMeat": 15,
     "MinimumDaysBetweenTreats": 7,
-    "LikedTreats": [
+     "LikedTreats": [
+      "Salamander Meat",
+      "Badger Meat",
       "Molerat Meat",
       "Beef",
       "Mutton"
@@ -129,7 +174,9 @@
     "MinimalNumberOfMeat": 5,
     "MaximumNumberOfMeat": 15,
     "MinimumDaysBetweenTreats": 7,
-    "LikedTreats": [
+     "LikedTreats": [
+      "Salamander Meat",
+      "Badger Meat",
       "Molerat Meat",
       "Beef",
       "Mutton"
@@ -142,7 +189,9 @@
     "MinimalNumberOfMeat": 5,
     "MaximumNumberOfMeat": 15,
     "MinimumDaysBetweenTreats": 7,
-    "LikedTreats": [
+     "LikedTreats": [
+      "Salamander Meat",
+      "Badger Meat",
       "Molerat Meat",
       "Beef",
       "Mutton"
@@ -155,7 +204,9 @@
     "MinimalNumberOfMeat": 5,
     "MaximumNumberOfMeat": 15,
     "MinimumDaysBetweenTreats": 7,
-    "LikedTreats": [
+     "LikedTreats": [
+      "Salamander Meat",
+      "Badger Meat",
       "Molerat Meat",
       "Beef",
       "Mutton"
@@ -168,7 +219,9 @@
     "MinimalNumberOfMeat": 5,
     "MaximumNumberOfMeat": 15,
     "MinimumDaysBetweenTreats": 7,
-    "LikedTreats": [
+     "LikedTreats": [
+      "Salamander Meat",
+      "Badger Meat",
       "Molerat Meat",
       "Beef",
       "Mutton"
@@ -181,7 +234,9 @@
     "MinimalNumberOfMeat": 5,
     "MaximumNumberOfMeat": 15,
     "MinimumDaysBetweenTreats": 7,
-    "LikedTreats": [
+     "LikedTreats": [
+      "Salamander Meat",
+      "Badger Meat",
       "Molerat Meat",
       "Beef",
       "Mutton"
@@ -194,7 +249,9 @@
     "MinimalNumberOfMeat": 5,
     "MaximumNumberOfMeat": 15,
     "MinimumDaysBetweenTreats": 7,
-    "LikedTreats": [
+     "LikedTreats": [
+      "Salamander Meat",
+      "Badger Meat",
       "Molerat Meat",
       "Beef",
       "Mutton"
@@ -207,7 +264,9 @@
     "MinimalNumberOfMeat": 5,
     "MaximumNumberOfMeat": 15,
     "MinimumDaysBetweenTreats": 7,
-    "LikedTreats": [
+     "LikedTreats": [
+      "Salamander Meat",
+      "Badger Meat",
       "Molerat Meat",
       "Beef",
       "Mutton"
@@ -220,7 +279,9 @@
     "MinimalNumberOfMeat": 5,
     "MaximumNumberOfMeat": 15,
     "MinimumDaysBetweenTreats": 7,
-    "LikedTreats": [
+     "LikedTreats": [
+      "Salamander Meat",
+      "Badger Meat",
       "Molerat Meat",
       "Beef",
       "Mutton"
